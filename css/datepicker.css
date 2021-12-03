@@ -1,28 +1,10 @@
-/* .ui-datepicker {
-  font-family: Roboto, Montserrat, sans-serif;
-  padding: 1em 1em 0;
-  font-size: .8em;
-  box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
-  width: 17em;
-  font-weight: 410;
-}
-.ui-datepicker .ui-datepicker-header {
-  display: flex;
-  width: 100%;
-}
-.ui-datepicker .ui-datepicker-header .ui-datepicker-title {
-  color: #888;
-} */
-/* .ui-datepicker {
-	width: 17em;
-	padding: .2em .2em 0;
-	display: none;
-  box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
-}
-.ui-datepicker .ui-datepicker-header {
-	position: relative;
-	padding: .2em 0;
-} */
+/**
+ * @package Datepicker JQuery UI
+ * @author Don  de Dieu Bolenge (https://github.com/bolenge)
+ * @date 03/12/2021
+ * @description Customization styles of Datepicker of JQuery UI
+ * @licence MIT
+ */
 
 .ui-datepicker {
 	width: 13em;
